@@ -8,9 +8,9 @@
 
     <!-- Animal images in the header -->
     <div class="animal-images">
-      <img src="pictures/dog.jpg" alt="Dog" />
-      <img src="pictures/cat.jpg" alt="Cat" />
-      <img src="pictures/bird.jpg" alt="Bird" />
+      <img src="pictures\dog.jpg" alt="Dog" />
+      <img src="pictures\cat.jpg" alt="Cat" />
+      <img src="pictures\bird.jpg" alt="Bird" />
     </div>
 
     <!-- Product selection and ordering process -->
